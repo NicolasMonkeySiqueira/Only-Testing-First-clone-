@@ -1,0 +1,200 @@
+* {
+    color: white;
+}
+
+body {
+    font-size: 2rem;
+    background-color: #161625;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin: 5rem 0 4rem 0;
+    justify-content: center;
+}
+
+
+.icone {
+
+    width: 4.5rem;
+    height: auto;
+}
+
+.sign {
+
+    font-size: 14px;
+}
+
+.signup {
+    background-color: #86AAF9;
+    color: #000;
+    border: none;
+    border-radius: 20px;
+    padding: 6px 14px;
+    font-size: 14px;
+    cursor: pointer;
+    margin: auto;
+}
+
+
+.LOGO {
+    font-size: 64px;
+    color: #86aaf9;
+
+}
+
+.barraP {
+    background-color: #232C42;
+    width: 95rem;
+    height: 1.5rem;
+    margin-top: 0rem;
+}
+
+.CABECER {
+
+    background-color: #2F3D5C;
+    display: flex;
+    align-items: center;
+}
+
+.oque {
+    font-size: 13px;
+    text-align: center;
+
+}
+
+.metodos {
+    display: flex;
+    align-items: center;
+    gap: 10rem;
+    margin: 4.4rem 0 3rem 43rem;
+}
+
+.botões {
+    color: #86AAF9;
+    background-color: #161625;
+    border: none;
+    font-size: small;
+}
+
+button:hover {
+    color: #2F77EB;
+}
+
+button:active {
+    transform: scale(0.95);
+}
+
+.scan {
+    margin: 0rem 0 0 54rem;
+}
+
+.ARQUIVO {
+    color: #69aaf9;
+    background-color: #161625;
+    border-bottom-color: white;
+    display: flex;
+    margin: 1rem 0 0 52rem;
+    font-size: smaller;
+}
+
+.termos {
+    font-size: 13px;
+    text-align: center;
+    margin: 1rem;
+}
+
+.icones2 {
+
+    width: 2rem;
+}
+
+.icone1 {
+    margin-top: 0rem 0 0 1rem;
+}
+
+footer {
+    padding-bottom: 1rem;
+}
+
+
+.footerC {
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+}
+
+
+.footer1 {
+    margin: 0rem 0 0 25rem;
+
+}
+
+.footer2 {
+    margin: -11.2rem 0 0 38rem
+}
+
+.footer3 {
+    margin: -13.5rem 0 0 52rem
+}
+
+.footer4 {
+    margin: -15.3rem 0 0 65rem
+}
+
+.footer5 {
+    margin: -18.9rem 0 0 79rem
+}
+
+.linha {
+    margin: 12rem 0rem 2rem 0rem;
+    height: 1px;
+    width: 100%;
+    background-color: #2F3D5C;
+}
+
+.linhatwo {
+    position: relative;
+    margin: -2.2rem 0rem 2rem 37rem;
+    height: 1px;
+    width: 35%;
+    background-color: #2F3D5C;
+
+
+}
+
+.linhacima {
+    position: relative;
+    margin: 0.8rem;
+    height: 23px;
+    width: 1px;
+    background-color: #6275A3;
+}
+
+.linha-wrapper {
+    position: relative;
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.linha-ativa {
+    position: absolute;
+    top: 24.4rem;
+    left: 37rem;
+
+    height: 2px;
+    width: 210px;
+    background-color: #86AAF9;
+}
+
+strong {
+    font-weight: 700;
+    font-size: 14px;
+}
